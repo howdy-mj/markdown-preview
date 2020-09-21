@@ -19,11 +19,14 @@ export const GlobalStyle = () => {
         html {
           box-sizing: border-box;
           font-size: 62.5%;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+            Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         }
 
         body {
           font-weight: 400;
           line-height: 1.6;
+          font-size: 1.6rem;
         }
       `}
     />

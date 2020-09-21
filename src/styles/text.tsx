@@ -1,7 +1,7 @@
-import React from 'react';
 import styled from '@emotion/styled';
 
 export const Title = styled.h2`
-  font-size: 2.4rem;
-  color: #00d564;
+  font-size: 5rem;
+  color: #2c3b79;
+  text-align: center;
 `;
